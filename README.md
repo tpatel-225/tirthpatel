@@ -1,21 +1,18 @@
 # Hi, I'm Tirth Patel 👋
 
-### 🚀 Building at the intersection of software development, data, and analytics.
+## About Me
+
+I’m a graduate student working at the intersection of software development, data, and analytics.
+
+My focus is on building practical applications using code. I enjoy working on backend systems, data workflows, and small-scale software projects.
+
+I have experience exploring GIS tools, web development, and computational analysis through academic and personal projects.
 
 ---
 
-## 👨‍💻 About Me
+## Skills & Technologies
 
-🎓 Graduate student with a technical background in GIS and data analysis  
-💻 Focused on developing software applications and data-driven systems  
-📊 Interested in analytics, automation, and scalable problem-solving  
-🛠 Building projects ranging from apps and games to data and spatial tools  
-
----
-
-## 🧰 Tech Stack
-
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat)
