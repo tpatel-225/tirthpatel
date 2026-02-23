@@ -31,21 +31,3 @@
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat)
 
 ---
-
-## 🌱 Currently Developing
-
-- Full-stack application skills  
-- Data-driven software projects  
-- Automation workflows  
-- Personal portfolio web application  
-
----
-
-## 📌 Project Focus Areas
-
-- Application development  
-- Data analysis & analytics workflows  
-- Algorithmic problem solving  
-- Spatial and location-based systems  
-
----
