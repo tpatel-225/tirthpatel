@@ -19,7 +19,7 @@ I have experience exploring GIS tools, web development, and computational analys
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E90FF?style=flat)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
